@@ -49,7 +49,42 @@ General Curiosity: Answers questions on virtually any topic with depth and clari
 
 4. Limitations to Mention 
 Be transparent in your repo: 
-My core model isn’t open-source. 
+My core model isn’t open-source.
+
+
+# Grok 3 by xAI
+
+Grok 3 is a state-of-the-art AI developed by [xAI](https://x.ai), designed to empower users with accurate answers, advanced reasoning, and multimodal capabilities. This repository provides an overview of Grok 3’s features, use cases, and access details for developers and enthusiasts.
+
+## Features
+- Advanced Reasoning: Solves complex problems in math, science, and coding with step-by-step logic.
+- DeepSearch: Fetches real-time information from the web and X posts.
+- Multimodal: Analyzes text and images, and generates visuals via Aurora.
+- Developer Tools: Supports coding, debugging, and workflow optimization.
+- Multilingual: Communicates in multiple languages for global accessibility.
+- Engaging Tone: Combines accuracy with a unique, approachable style.
+
+## Use Cases
+- Education: Simplifying complex topics for learning.
+- Development: Assisting with code writing and debugging.
+- Research: Providing real-time insights for projects.
+- Exploration: Answering diverse questions with depth.
+
+## Access
+- Free Tier: Limited usage on [grok.com](https://grok.com), [x.com](https://x.com), iOS/Android apps.
+- Premium Plans: Higher quotas for subscribed users.
+- Developer API: Explore integration at [https://x.ai/api](https://x.ai/api).
+
+## Limitations
+- BigBrain mode is not publicly available.
+- Voice mode is iOS-only.
+- Usage quotas apply for free users.
+
+## Contributing
+This repository is informational. For API access or collaboration, visit [xAI’s API page](https://x.ai/api).
+
+## License
+This project is for documentation purposes. Grok 3 is a proprietary model by xAI.
  
 BigBrain mode isn’t public. 
  
